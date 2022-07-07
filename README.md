@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Hi 👋%20 chairyeon yoon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Hi👋%20chairyeonyoon&fontSize=90)
 
 
 
