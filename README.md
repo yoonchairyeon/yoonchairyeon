@@ -1,6 +1,7 @@
-# Hi 👋 
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=chairyeon   yoon%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?text=Hi 👋 chairyeon yoon)
+
 
 ### study
 <img src="https://img.shields.io/badge/Java-1572B6?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
