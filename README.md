@@ -12,6 +12,7 @@
 
 <img src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jquery&logoColor=white"/></span>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></span>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></span>
    
 <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=OracleDB&logoColor=white"/>   
 </br>
