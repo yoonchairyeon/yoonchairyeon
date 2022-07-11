@@ -19,7 +19,8 @@
 </br>
 
 <b>🛠️ Tools 🛠️<b></br>
-   
+
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Node.js&logoColor=white"/></span>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></span>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></span>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></span>
