@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=skyblue&height=400&section=header&text=I'm%20chairyeon%20yoon😀&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=400&section=header&text=I'm%20chairyeon%20yoon😀&fontSize=60)
 </br>
 
 <b>🖥 Tech Stacks 🖥<b></br>
