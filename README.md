@@ -1,5 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=400&section=header&text=I'm%20chairyeon%20yoon😀&fontSize=60)
+<b> hi I'm chairyeon <b>
+
 </br>
 
 <b>🖥 Tech Stacks 🖥<b></br>
